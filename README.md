@@ -703,7 +703,6 @@ See [docs/development/CONTRIBUTING.md](docs/development/CONTRIBUTING.md) for det
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ```
-Copyright (c) 2026 Daniel Lopez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -721,6 +720,10 @@ copies of the Software...
 - **FastAPI** - Modern API framework
 - **Next.js** - React framework
 - **Radix UI** - Accessible components
+
+---
+
+---
 
 ---
 
